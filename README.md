@@ -1,5 +1,3 @@
-# FluidAI_autonomous_agent
-
 # FluidAI - Autonomous AI Document Generator
 
 ## 🚀 Overview
